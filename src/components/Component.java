@@ -12,12 +12,6 @@ public abstract class Component implements Comparable<Component> {
 	
 	/** 画面の一辺の長さ */
 	protected static final int SIZE = 600;
-    /** 図形の形：丸 */
-	protected static final int ROUND = 0;
-    /** 図形の形：四角形 */
-	protected static final int DIAMOND = 1;
-    /** 図形の最大個数 */
-	protected static final int MAX_FIGURES = 10;
 	
 	/** X座標, Y座標, Z座標 */
 	private SpacialCoordinate spacialCoordinate = null;
