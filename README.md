@@ -27,6 +27,7 @@ Application Structure
 ----------------------
 
 The ProgrammingTestUzabaseByIvanPoza.zip contains inside the following file structure: 
+<pre><code>
 <ul>
 <li>[+] src/beans	Plain beans used to make the application more readable and clear</li>
 <li>[+] src/components  Basic objects of the application (Component, DrawableComponent,...) </li>
@@ -42,6 +43,7 @@ The ProgrammingTestUzabaseByIvanPoza.zip contains inside the following file stru
 <li>[+] .project	Eclipse Java Project file</li>
 <li>[+] .settings	Eclipse settings directory</li>
 </ul>
+</code></pre>
 
 The Latest Version
 ------------------
