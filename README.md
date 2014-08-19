@@ -27,26 +27,26 @@ Application Structure
 ----------------------
 
 The ProgrammingTestUzabaseByIvanPoza.zip contains inside the following file structure: 
-
-src/beans		Plain beans used to make the application more readable and clear	   	
-src/components  Basic objects of the application (Component, DrawableComponent,...)  
-src/interfaces  New interfaces to help implement the right behavior in the application like
-				Observer, Subject (Observer pattern), Movable, Drawable (for the components)
-src/runnable    Contains the runnable class of the application. Application.java.
-src/subject     Contains the window (JPanel) showing the behavior of the application and also
-				is the class that acts as the Subject in the implemented Observer pattern
-jar/     		Contains the java jar to be executed as an application
-bin/			Contains the compiled files of the project
-README.txt      Contains a brief explanation on the application and some other extra information
-.classpath		Eclipse classpath file
-.project		Eclipse Java Project file
-.settings		Eclipse settings directory
+<ul>
+<li>[+] src/beans	Plain beans used to make the application more readable and clear</li>
+<li>[+] src/components  Basic objects of the application (Component, DrawableComponent,...) </li>
+<li>[+] src/interfaces  New interfaces to help implement the right behavior in the application like
+				Observer, Subject (Observer pattern), Movable, Drawable (for the components)</li>
+<li>[+] src/runnable    Contains the runnable class of the application. Application.java.</li>
+<li>[+] src/subject     Contains the window (JPanel) showing the behavior of the application and also
+		is the class that acts as the Subject in the implemented Observer pattern</li>
+<li>[+] jar/     	Contains the java jar to be executed as an application</li>
+<li>[+] bin/	Contains the compiled files of the project</li>
+<li>[+] README.txt  Contains a brief explanation on the application and some other extra information</li>
+<li>[+] .classpath	Eclipse classpath file</li>
+<li>[+] .project	Eclipse Java Project file</li>
+<li>[+] .settings	Eclipse settings directory</li>
+</ul>
 
 The Latest Version
 ------------------
 
-There is only one version, which is this included in the XXX.
-I am thinking of making a Github account, but is not yet finished.
+This is the only version.
 
 Documentation
 -------------
@@ -79,18 +79,12 @@ The software does not need to be installed. As for the execution just download t
 called ProgrammingTestUzabase.jar to a directory and then execute the next command in the
 command line:
 
-java -jar ProgrammingTestUzabase.jar
+<pre><code>java -jar ProgrammingTestUzabase.jar</code></pre>
 
 Pre-requisites: You need Java installed in your computer.
 (Note that I have compiled and executed the application with the Java 1.7 version, so
 it might be needed this version to execute the application) Or just compile the files with
 another version and then execute the application.
-
-Git Access
-----------
-
-Unfortunately I have not a Github account yet. I am working on having one in the near future with
-all the coding I am doing while programming at home.
 
 Contacts
 --------
