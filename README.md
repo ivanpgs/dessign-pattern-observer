@@ -8,11 +8,11 @@ What is it?
 
 It is an application based on the assignments received from the company Uzabase (http://www.uzabase.com)
 
-The assignment (japanese version) may be reached at this website:
+The assignment (japanese version) may be reached in the link below:
 
-http://uzabase-tech.info/assignment.html
+https://mega.co.nz/#!OYkHHZ5D!K6FXAU87N_H_SNPn7nFMtXFtwdJXdOwNzL253rf8NQM
 
-The application I made is a new version of the assigment.zip, which is a JPanel with three objects 
+The application I made is a new version of the uzabase_assignment.rar, which is a JPanel with three objects 
 shown in it. In the middle there is a red square and making an orbital movement around that red
 square there is another blue square and a yellow sphere.
 
